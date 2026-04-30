@@ -12,7 +12,7 @@
 ---
  
 ### 👨‍💻 Sobre
-Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituição]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - ex: Desenvolvimento Backend / Análise de Dados].
+Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em [Área de Interesse - Desenvolvimento Backend / Análise de Dados].
  
 * **Habilidades Técnicas:** [Ex: Python, Java, SQL, AWS, Docker].
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
@@ -37,15 +37,11 @@ Atualmente cursando o [Xº] período de [Nome do Curso] na [Nome da Instituiçã
  
 ### 📂 Portfólio de Projetos
  
-#### 🗃️ Modelagem de Banco de Dados
+#### 🗃️ Programação de computadores
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Sistema de Gestão Escolar** | Modelagem ER e Scripts SQL para uma instituição de ensino. | [Ver Projeto](./projeto-banco-dados/) |
- 
-#### 🤖 Inteligência Artificial
-| Projeto | Descrição | Link |
-| :--- | :--- | :---: |
-| **Predição de Churn** | Algoritmo de classificação para prever saída de clientes. | [Ver Projeto](./projeto-ia-churn/) |
+| **Algoritmo de auditoria de dados** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
+
  
 ---
  
