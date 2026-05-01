@@ -43,6 +43,8 @@ Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. 
 | **Algoritmo de auditoria de dados** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
 | :--- | :--- | :---: |
 | **Engenharia de Soluções Lógicas** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
+| :--- | :--- | :---: |
+| **Modularização** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-modularizacao/) |
 
  
 ---
