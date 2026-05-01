@@ -25,5 +25,5 @@ O sistema opera baseado em três cenários críticos de decisão:
 | **Risco Elevado** | Venda não legítima + Média > Limite | **SISTEMA EM QUARENTENA** |
 | **Anomalia de Valor** | Venda > 5x a Média | **REVISÃO MANUAL** |
 
-
-   git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+---
+[Voltar ao Início](https://github.com/viniciusravini-hub/portfolio-vinicius-passos/tree/main)
