@@ -1,4 +1,4 @@
-# 🧱 Desafio Unplugged: A Arte da Modularização
+# 🧱 Modularização
 
 ## 📝 Descrição do Projeto
 Este projeto apresenta uma proposta de atividade teórico-prática voltada ao ensino de Pensamento Computacional e Modularização. O objetivo central é aplicar a filosofia de "Dividir para Conquistar", resolvendo problemas complexos através da decomposição em partes menores e mais gerenciáveis.
