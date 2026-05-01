@@ -14,9 +14,6 @@ O projeto foi estruturado em quatro etapas principais:
 A lógica da solução foi desenhada para contemplar as entradas de sensores e múltiplos pontos de decisão.
 * **Elementos inclusos:** Sensores de densidade, cálculos de temporização e estruturas condicionais de segurança.
 
-> [!TIP]
-> O arquivo de imagem do fluxograma pode ser encontrado na pasta `/docs` deste repositório.
-
 ### 2. Estruturação Lógica (Pseudocódigo)
 Tradução do fluxo para a linguagem **Portugol**, utilizando estruturas de repetição (`enquanto`) e condicionais (`se/então/senão`).
 
