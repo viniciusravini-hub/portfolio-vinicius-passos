@@ -31,6 +31,8 @@ Inicio
     FimEnquanto
 Fim
 
+---
+
 ## 🚀 Funcionalidades
 * **Cálculo de Média Dinâmica:** Processamento automático da média aritmética de lotes de vendas.
 * **Protocolo de Segurança Ativo:** Monitoramento de legitimidade com bloqueio preventivo (Quarentena).
