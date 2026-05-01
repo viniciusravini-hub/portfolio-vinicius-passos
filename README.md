@@ -45,7 +45,7 @@ Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. 
 | **Modularização** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-modularizacao/) |
 | **Traduzindo Lógica para Python** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 | **Engenharia de Contexto e Lógica Física** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-engenharia-de-contexto-e-logica-fisica/) |
-
+| **Desenhando Emojis com Dados** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-desenho-emojis-com-dados/) |
  
 ---
  
