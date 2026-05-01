@@ -43,7 +43,7 @@ Atualmente cursando o [1º] período de [Ciencias Da Computação] na [Unicid]. 
 | **Algoritmo de auditoria de dados** | Repositório centralizador que sirva como vitrine profissional, organizando a produção acadêmica e técnica do aluno de forma elegante, visual e profissional. | [Ver Projeto](./projeto-algoritimo-de-auditoria-de-dados/) |
 | **Engenharia de Soluções Lógicas** | Pseudocódigo no papel em contexto de analise de cores | [Ver Projeto](./projeto-engenharia-de-solucoes-logicas/) |
 | **Modularização** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-modularizacao/) |
-| **Modularização** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-modularizacao/) |
+| **Traduzindo Lógica para Python** | Pseudocodigo feito no papel em contexto de vendas | [Ver Projeto](./projeto-traduzindo-logica-para-python/) |
 
  
 ---
