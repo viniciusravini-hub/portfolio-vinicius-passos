@@ -17,20 +17,6 @@ A lógica da solução foi desenhada para contemplar as entradas de sensores e m
 ### 2. Estruturação Lógica (Pseudocódigo)
 Tradução do fluxo para a linguagem **Portugol**, utilizando estruturas de repetição (`enquanto`) e condicionais (`se/então/senão`).
 
-```portugol
-// Exemplo de trecho do algoritmo
-Algoritmo OtimizadorSemaforo
-Inicio
-    Enquanto (sistema_ativo) faca
-        sensor_vias = ler_sensores()
-        Se (sensor_vias > densidade_limite) entao
-            priorizar_via_congestonada()
-        Senao
-            manter_ciclo_padrao()
-        FimSe
-    FimEnquanto
-Fim
-
 ---
 
 ## 🚀 Funcionalidades
