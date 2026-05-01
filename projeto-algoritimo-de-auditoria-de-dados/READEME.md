@@ -26,4 +26,4 @@ O projeto estabelece uma base sólida para lógicas de sistemas anti-fraude e va
 4. Digite os valores para a Venda 1, Venda 2 e Venda 3 no terminal integrado para interagir com o sistema.
 
 ---
-(Voltar ao Início)[[https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/viniciusravini-hub/portfolio-vinicius-passos/tree/main)]
+[[Voltar ao Início](https://github.com/seu-usuario/nome-do-repositorio.git)(https://github.com/viniciusravini-hub/portfolio-vinicius-passos/tree/main))](https://github.com/viniciusravini-hub/portfolio-vinicius-passos/tree/main)
