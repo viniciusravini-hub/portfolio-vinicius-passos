@@ -17,22 +17,19 @@ A lógica da solução foi desenhada para contemplar as entradas de sensores e m
 ### 2. Estruturação Lógica (Pseudocódigo)
 Tradução do fluxo para a linguagem **Portugol**, utilizando estruturas de repetição (`enquanto`) e condicionais (`se/então/senão`).
 
----
-
-## 🚀 Funcionalidades
-* **Cálculo de Média Dinâmica:** Processamento automático da média aritmética de lotes de vendas.
-* **Protocolo de Segurança Ativo:** Monitoramento de legitimidade com bloqueio preventivo (Quarentena).
-* **Detecção de Anomalias (Outliers):** Identificação automática de vendas que excedem em 5x a média do lote, disparando alerta de revisão manual.
-* **Gestão de Limites:** Interface interativa para ajuste dinâmico do `LIMITE_DE_SEGURANÇA` em caso de detecção de irregularidades.
-
-## 📊 Estrutura de Validação (Lógica de Negócio)
-O sistema opera baseado em três cenários críticos de decisão:
-
-| Cenário | Condição | Ação do Sistema |
-| :--- | :--- | :--- |
-| **Normalidade** | Venda legítima e abaixo do limite | Transação Aprovada |
-| **Risco Elevado** | Venda não legítima + Média > Limite | **SISTEMA EM QUARENTENA** |
-| **Anomalia de Valor** | Venda > 5x a Média | **REVISÃO MANUAL** |
+```portugol
+// Exemplo de trecho do algoritmo
+Algoritmo OtimizadorSemaforo
+Inicio
+    Enquanto (sistema_ativo) faca
+        sensor_vias = ler_sensores()
+        Se (sensor_vias > densidade_limite) entao
+            priorizar_via_congestonada()
+        Senao
+            manter_ciclo_padrao()
+        FimSe
+    FimEnquanto
+Fim
 
 ---
 [Voltar ao Início](https://github.com/viniciusravini-hub/portfolio-vinicius-passos/tree/main)
