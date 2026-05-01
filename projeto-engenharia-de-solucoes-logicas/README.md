@@ -1,4 +1,4 @@
-# 🛒 Sistema Automatizado de Vendas e Análise de Risco
+# 🚦 Otimização de Semáforos em Tempo Real
 
 Este projeto apresenta uma solução algorítmica para a gestão inteligente de tráfego urbano. O objetivo principal é a redução de congestionamentos através do ajuste dinâmico de tempos de semáforo, partindo de uma abstração visual (fluxograma) até a validação lógica (teste de mesa).
 
